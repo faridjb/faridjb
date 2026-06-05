@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faridjb&label=Profile%20views&color=0e75b6&style=flat" alt="faridjb" /> </p>
 
-- 🔭 I’m currently working on **LLM & NLP**, **CV(object detection)** and **Anomaly Detection**
+- 🔭 I’m currently working on projects on **LLM and agenitic AI**, **CV(object detection)** and **Anomaly Detection**
 
 - 🌱 I’m currently learning **SQL, Docker, and AWS cloud**
 
