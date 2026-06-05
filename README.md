@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/faridjb](https://github.com/faridjb)
 
-- 💬 Ask me about **Python, Matlab and AI**
+- 💬 Ask me about **Python, Matlab and Agentic AI**
 
 - 📫 How to reach me **Farid.j.maleki@gmail.com**
 
