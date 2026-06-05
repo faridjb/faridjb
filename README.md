@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python, Matlab and Agentic AI**
 
-- 📫 How to reach me **Farid.j.maleki@gmail.com**
+- 📫 How to reach out with me? Send an E-mail to: **Farid.j.maleki@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
