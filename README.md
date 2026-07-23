@@ -38,7 +38,7 @@ Open to **permanent, on-site/hybrid roles**
 - PyTorch • TensorFlow • Hugging Face • Scikit-learn
 
 **Infrastructure & MLOps**
-- Docker • Kubernetes • CI/CD • GCP • AWS
+- Docker • Kubernetes • CI/CD • GCP • Azure
 - FastAPI • Django REST • Temporal.io
 
 **Information Retrieval**
